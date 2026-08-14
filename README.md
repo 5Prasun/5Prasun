@@ -34,7 +34,7 @@
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -58,7 +58,7 @@ reach_me: prasuns57dhn@gmail.com
 - 🌱 Currently leveling up **System Design, LLD & DSA** for SDE interviews
 - 🌐 Portfolio → **[portfolio-ecru-mu-77.vercel.app](https://portfolio-ecru-mu-77.vercel.app/)**
 
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+---
 
 ## 🛠️ Tech Stack
 
@@ -92,7 +92,7 @@ reach_me: prasuns57dhn@gmail.com
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+---
 
 ## 📊 GitHub Analytics
 
@@ -108,7 +108,7 @@ reach_me: prasuns57dhn@gmail.com
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+---
 
 ## 🧾 Profile Summary
 
@@ -124,7 +124,7 @@ reach_me: prasuns57dhn@gmail.com
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+---
 
 ## 🏆 Trophies
 
@@ -134,7 +134,7 @@ reach_me: prasuns57dhn@gmail.com
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+---
 
 ## 🧩 Competitive Programming
 
@@ -146,7 +146,7 @@ reach_me: prasuns57dhn@gmail.com
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+---
 
 ## 💭 Dev Quote
 
@@ -156,7 +156,7 @@ reach_me: prasuns57dhn@gmail.com
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+---
 
 ## 🐍 Watch My Contributions Get Eaten
 
@@ -166,7 +166,7 @@ reach_me: prasuns57dhn@gmail.com
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+---
 
 ## 🤝 Connect With Me
 
