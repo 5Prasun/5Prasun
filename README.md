@@ -3,13 +3,29 @@
 <!--  Repo must be named exactly: 5Prasun/5Prasun      -->
 <!-- ================================================= -->
 
-<!-- ---------- ANIMATED HEADER BANNER ---------- -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prasun%20Dandapat&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=C%2B%2B%20%C2%B7%20Systems%20%C2%B7%20DSA%20%C2%B7%20SDE%20Aspirant&descAlignY=58&descSize=18" />
+<!-- ---------- TERMINAL BOOT HEADER ---------- -->
+```ansi
+╭─────────────────────────────────────────────────────────────╮
+│  visitor@github:~$ ssh prasun@dandapat.dev                   │
+│                                                              │
+│   ██████╗ ██████╗  █████╗ ███████╗██╗   ██╗███╗   ██╗        │
+│   ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║   ██║████╗  ██║        │
+│   ██████╔╝██████╔╝███████║███████╗██║   ██║██╔██╗ ██║        │
+│   ██╔═══╝ ██╔══██╗██╔══██║╚════██║██║   ██║██║╚██╗██║        │
+│   ██║     ██║  ██║██║  ██║███████║╚██████╔╝██║ ╚████║        │
+│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝        │
+│                                                              │
+│  > role     : C++ Systems Engineer · SDE Aspirant           │
+│  > intern   : TEOCO (RAN/ASSET) · NIT Durgapur (ML Research) │
+│  > stack    : C++ · Python · Docker · K8s · AWS             │
+│  > status   : [ ▓▓▓▓▓▓▓▓░░ ]  open to SDE roles             │
+╰─────────────────────────────────────────────────────────────╯
+```
 
 <!-- ---------- TYPING SVG ---------- -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Hi+%F0%9F%91%8B+I'm+Prasun+Dandapat;Software+Developer+Intern+%40+TEOCO;ML+Research+Intern+%40+NIT+Durgapur;C%2B%2B+%2F+Low-Level+Systems+Engineer;Grinding+DSA+for+SDE+Interviews+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=700&color=00FF9C&center=true&vCenter=true&multiline=true&width=760&height=120&lines=%3E+booting+dev+environment...;%3E+Software+Developer+Intern+%40+TEOCO;%3E+ML+Research+Intern+%40+NIT+Durgapur;%3E+C%2B%2B+%2F+Low-Level+Systems+Engineer;%3E+status%3A+grinding+DSA+for+SDE+_)](https://git.io/typing-svg)
 
 <!-- ---------- LIVE COUNTERS ---------- -->
 <img src="https://komarev.com/ghpvc/?username=5Prasun&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="views" />
@@ -163,4 +179,14 @@ reach_me: prasuns57dhn@gmail.com
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
+<div align="center">
+
+```ansi
+prasun@github:~$ echo "Thanks for visiting — let's build something."
+> while (alive) { code(); learn(); repeat(); }
+prasun@github:~$ _
+```
+
+<img src="https://img.shields.io/badge/%3C%2F%3E-Built%20with%20C%2B%2B%20energy-00FF9C?style=for-the-badge&labelColor=0d1117" />
+
+</div>
